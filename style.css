@@ -201,7 +201,7 @@ h3 {
     background: var(--primary-color-1);
     text-align: center;
 }
-#connect a {
+.connect-link a {
     color: white;
 }
 .connect-social {
